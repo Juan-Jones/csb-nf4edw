@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://juan-jones.github.io/csb-nf4edw/static/css/main.6452e301.chunk.css",
+    "main.js": "https://juan-jones.github.io/csb-nf4edw/static/js/main.6a2ee086.chunk.js",
+    "main.js.map": "https://juan-jones.github.io/csb-nf4edw/static/js/main.6a2ee086.chunk.js.map",
+    "runtime-main.js": "https://juan-jones.github.io/csb-nf4edw/static/js/runtime-main.cf99ee20.js",
+    "runtime-main.js.map": "https://juan-jones.github.io/csb-nf4edw/static/js/runtime-main.cf99ee20.js.map",
+    "static/css/2.80f479d8.chunk.css": "https://juan-jones.github.io/csb-nf4edw/static/css/2.80f479d8.chunk.css",
+    "static/js/2.1eaf9732.chunk.js": "https://juan-jones.github.io/csb-nf4edw/static/js/2.1eaf9732.chunk.js",
+    "static/js/2.1eaf9732.chunk.js.map": "https://juan-jones.github.io/csb-nf4edw/static/js/2.1eaf9732.chunk.js.map",
+    "index.html": "https://juan-jones.github.io/csb-nf4edw/index.html",
+    "precache-manifest.8eface850f405432a0153e748d9a7a77.js": "https://juan-jones.github.io/csb-nf4edw/precache-manifest.8eface850f405432a0153e748d9a7a77.js",
+    "service-worker.js": "https://juan-jones.github.io/csb-nf4edw/service-worker.js",
+    "static/css/2.80f479d8.chunk.css.map": "https://juan-jones.github.io/csb-nf4edw/static/css/2.80f479d8.chunk.css.map",
+    "static/css/main.6452e301.chunk.css.map": "https://juan-jones.github.io/csb-nf4edw/static/css/main.6452e301.chunk.css.map",
+    "static/js/2.1eaf9732.chunk.js.LICENSE.txt": "https://juan-jones.github.io/csb-nf4edw/static/js/2.1eaf9732.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf99ee20.js",
+    "static/css/2.80f479d8.chunk.css",
+    "static/js/2.1eaf9732.chunk.js",
+    "static/css/main.6452e301.chunk.css",
+    "static/js/main.6a2ee086.chunk.js"
+  ]
+}
